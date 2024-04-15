@@ -1,7 +1,7 @@
 {
-  "name": "majidnumber-guessing-game",
+  "name": "majid_ali_number-guessing-game",
   "version": "1.0.1",
-  "description": "",
+  "description": "number_guessing",
   "main": "index.js",
   "type": "module",
   "bin":"main.js",
